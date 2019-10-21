@@ -4,7 +4,7 @@
     <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
     <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
     <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
-    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="ocr_header">Click Detect Text to detect text</string>
     <string name="read_text">Detect Text</string>
     <string name="auto_focus">Auto Focus</string>
     <string name="use_flash">Use Flash</string>
@@ -16,5 +16,13 @@
     <string name="no_email_client_error">There are no email clients installed.</string>
     <string name="copy_text">Copy to clipboard</string>
     <string name="clipboard_copy_successful_message">Copied to clipboard.</string>
-    <string name="choose_language">choose your preferred language</string>
+    <string name="choose_language">Choose your preferred language</string>
+    <string-array name="subjects_array">
+        <item>Hindi</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+    </string-array>
 </resources>

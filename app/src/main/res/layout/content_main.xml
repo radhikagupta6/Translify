@@ -51,27 +51,25 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/read_text"
-            android:background="@color/colorAccent"
+            android:background="@color/colorPrimary"
             android:textColor="@android:color/white"/>
 
-        <Button
-            android:id="@+id/copy_text_button"
-            android:layout_marginTop="@dimen/button_margin_top"
-            android:layout_width="match_parent"
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/copy_text"
-            android:background="@color/colorAccent"
-            android:textColor="@android:color/white"/>
-
+            android:text="@string/choose_language"
+            android:textSize="18sp"
+            android:id="@+id/prefLang"
+            android:visibility="invisible"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="100dp"/>
 
         <Spinner
-            android:id="@+id/spinner"
-            android:layout_width="match_parent"
-            android:tooltipText="@string/choose_language"
-            android:layout_height="wrap_content">
-
-
-        </Spinner>
+            android:id="@+id/subjects_spinner"
+            android:layout_marginBottom="30dp"
+            android:layout_width="fill_parent"
+            android:visibility="invisible"
+            android:layout_height="wrap_content" />
 
         <Button
             android:id="@+id/translate_button"
@@ -79,7 +77,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/translate_text"
-            android:background="@color/colorAccent"
+            android:visibility="invisible"
+            android:background="@color/colorPrimary"
             android:textColor="@android:color/white"/>
 
     </LinearLayout>

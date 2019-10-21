@@ -456,6 +456,10 @@
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\2657e81b29375f030d4dd484a49b3846\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_snackbar_background.xml.flat",
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\9b2515a66d7340e689ccad28278bdfb8\\res\\drawable\\mtrl_snackbar_background.xml"
     },
@@ -734,6 +738,10 @@
     {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\ac9cf3dde84c8f705248bba32cebbd44\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
@@ -1436,6 +1444,10 @@
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\9b2515a66d7340e689ccad28278bdfb8\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
     },
     {
+        "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\2657e81b29375f030d4dd484a49b3846\\res\\color-v23\\abc_tint_default.xml"
     },
@@ -1656,6 +1668,14 @@
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\2657e81b29375f030d4dd484a49b3846\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_translate.xml.flat",
+        "source": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\src\\main\\res\\layout\\activity_translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\2657e81b29375f030d4dd484a49b3846\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -1746,6 +1766,10 @@
     {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\radhika gupta\\.gradle\\caches\\transforms-2\\files-2.1\\2657e81b29375f030d4dd484a49b3846\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\radhika gupta\\AndroidStudioProjects\\Translify\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",

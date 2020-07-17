@@ -2,7 +2,7 @@
 - An Android app to extract text from phone's camera preview directly.
 - Translate the text to any preferred language. 
 ## Working
-The workflow of the application will be as follows-
+The workflow of the application is as follows-
 - Capture Image.
 - Detect edges.
 - Retrieve text using mobile vision text recognition API.
